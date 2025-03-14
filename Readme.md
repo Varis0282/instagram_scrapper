@@ -22,7 +22,7 @@ This project is a **Node.js-based Instagram scraper** that fetches the latest po
 ### **1️⃣ Clone the Repository**
 ```sh
 git clone https://github.com/Varis0282/instagram_scrapper
-cd test1
+cd instagram_scrapper
 ```
 
 ### **2️⃣ Install Dependencies**
